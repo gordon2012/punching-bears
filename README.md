@@ -3,7 +3,6 @@
 ## A 3D Game Development project using Unity and Node.js
 
 TODO
-- Connecting Our First Client to the Server
 - Spawning Our First Player
 - Spawning Existing Players
 - Navigating Our Player
@@ -40,3 +39,4 @@ TODO
 
 DONE
 - Setting up Unity and Node for Multiplayer Development
+- Connecting Our First Client to the Server
